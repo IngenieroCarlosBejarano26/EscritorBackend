@@ -1,0 +1,10 @@
+global using Application.Common.Behaviors;
+global using Application.DTOs;
+global using Domain.Entities;
+global using Domain.Exceptions;
+global using Domain.Interfaces;
+global using FluentValidation;
+global using FluentValidation.Results;
+global using MediatR;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Reflection;
